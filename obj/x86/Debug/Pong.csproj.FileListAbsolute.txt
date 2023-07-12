@@ -1,0 +1,54 @@
+C:\Users\danie\Desktop\Monogame Solutions\Monogame Project 3\bin\Windows\x86\Debug\Content\ball.xnb
+C:\Users\danie\Desktop\Monogame Solutions\Monogame Project 3\bin\Windows\x86\Debug\Content\File.xnb
+C:\Users\danie\Desktop\Monogame Solutions\Monogame Project 3\bin\Windows\x86\Debug\Content\paddle.xnb
+C:\Users\danie\Desktop\Monogame Solutions\Monogame Project 3\bin\Windows\x86\Debug\Content\particle.xnb
+C:\Users\danie\Desktop\Monogame Solutions\Monogame Project 3\bin\Windows\x86\Debug\Monogame Project 3.exe
+C:\Users\danie\Desktop\Monogame Solutions\Monogame Project 3\bin\Windows\x86\Debug\Monogame Project 3.pdb
+C:\Users\danie\Desktop\Monogame Solutions\Monogame Project 3\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\danie\Desktop\Monogame Solutions\Monogame Project 3\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\danie\Desktop\Monogame Solutions\Monogame Project 3\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\danie\Desktop\Monogame Solutions\Monogame Project 3\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\danie\Desktop\Monogame Solutions\Monogame Project 3\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\danie\Desktop\Monogame Solutions\Monogame Project 3\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\danie\Desktop\Monogame Solutions\Monogame Project 3\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\danie\Desktop\Monogame Solutions\Monogame Project 3\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\danie\Desktop\Monogame Solutions\Monogame Project 3\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\danie\Desktop\Monogame Solutions\Monogame Project 3\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\danie\Desktop\Monogame Solutions\Monogame Project 3\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\danie\Desktop\Monogame Solutions\Monogame Project 3\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\danie\Desktop\Monogame Solutions\Monogame Project 3\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\danie\Desktop\Monogame Solutions\Monogame Project 3\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\danie\Desktop\Monogame Solutions\Monogame Project 3\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\danie\Desktop\Monogame Solutions\Monogame Project 3\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\danie\Desktop\Monogame Solutions\Monogame Project 3\obj\x86\Debug\Pong.csprojAssemblyReference.cache
+C:\Users\danie\Desktop\Monogame Solutions\Monogame Project 3\obj\x86\Debug\Pong.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\Monogame Solutions\Monogame Project 3\obj\x86\Debug\Pong.csproj.CopyComplete
+C:\Users\danie\Desktop\Monogame Solutions\Monogame Project 3\obj\x86\Debug\Monogame Project 3.exe
+C:\Users\danie\Desktop\Monogame Solutions\Monogame Project 3\obj\x86\Debug\Monogame Project 3.pdb
+C:\Users\danie\Desktop\Solutions\Monogame Solutions\Monogame Project 3\bin\Windows\x86\Debug\Content\ball.xnb
+C:\Users\danie\Desktop\Solutions\Monogame Solutions\Monogame Project 3\bin\Windows\x86\Debug\Content\File.xnb
+C:\Users\danie\Desktop\Solutions\Monogame Solutions\Monogame Project 3\bin\Windows\x86\Debug\Content\paddle.xnb
+C:\Users\danie\Desktop\Solutions\Monogame Solutions\Monogame Project 3\bin\Windows\x86\Debug\Content\particle.xnb
+C:\Users\danie\Desktop\Solutions\Monogame Solutions\Monogame Project 3\bin\Windows\x86\Debug\Monogame Project 3.exe
+C:\Users\danie\Desktop\Solutions\Monogame Solutions\Monogame Project 3\bin\Windows\x86\Debug\Monogame Project 3.pdb
+C:\Users\danie\Desktop\Solutions\Monogame Solutions\Monogame Project 3\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\danie\Desktop\Solutions\Monogame Solutions\Monogame Project 3\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\danie\Desktop\Solutions\Monogame Solutions\Monogame Project 3\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\danie\Desktop\Solutions\Monogame Solutions\Monogame Project 3\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\danie\Desktop\Solutions\Monogame Solutions\Monogame Project 3\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\danie\Desktop\Solutions\Monogame Solutions\Monogame Project 3\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\danie\Desktop\Solutions\Monogame Solutions\Monogame Project 3\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\danie\Desktop\Solutions\Monogame Solutions\Monogame Project 3\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\danie\Desktop\Solutions\Monogame Solutions\Monogame Project 3\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\danie\Desktop\Solutions\Monogame Solutions\Monogame Project 3\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\danie\Desktop\Solutions\Monogame Solutions\Monogame Project 3\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\danie\Desktop\Solutions\Monogame Solutions\Monogame Project 3\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\danie\Desktop\Solutions\Monogame Solutions\Monogame Project 3\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\danie\Desktop\Solutions\Monogame Solutions\Monogame Project 3\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\danie\Desktop\Solutions\Monogame Solutions\Monogame Project 3\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\danie\Desktop\Solutions\Monogame Solutions\Monogame Project 3\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\danie\Desktop\Solutions\Monogame Solutions\Monogame Project 3\obj\x86\Debug\Pong.csprojAssemblyReference.cache
+C:\Users\danie\Desktop\Solutions\Monogame Solutions\Monogame Project 3\obj\x86\Debug\Pong.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\Solutions\Monogame Solutions\Monogame Project 3\obj\x86\Debug\Pong.csproj.CopyComplete
+C:\Users\danie\Desktop\Solutions\Monogame Solutions\Monogame Project 3\obj\x86\Debug\Monogame Project 3.exe
+C:\Users\danie\Desktop\Solutions\Monogame Solutions\Monogame Project 3\obj\x86\Debug\Monogame Project 3.pdb
